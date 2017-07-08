@@ -1,0 +1,1 @@
+ //List<String>   getLongerNextlines(String   text):    Given   a   long   String,   split   the   string   in  s uch   a   way   that   the  next   line   longer   than   the   previous   line.   What   if   you   have   to   print   in   opposite   order,   next   line   is   shorter  than   previous   line.  
